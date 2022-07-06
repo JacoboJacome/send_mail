@@ -64,7 +64,7 @@ function App() {
         ></textarea>
         <input
           className="bg-white w-1/5 mx-auto rounded-2xl hover:bg-indigo-200 font-bold"
-          type="button"
+          type="submit"
           value="Enviar"
         ></input>
       </form>
